@@ -10,4 +10,4 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 </picture>
 
 ## Currently Working on
-+ SillyCode.tech[https://sillycode.tech/]
++ [SillyCode.tech](https://sillycode.tech/)
