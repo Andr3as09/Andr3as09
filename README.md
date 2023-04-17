@@ -13,4 +13,4 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 + [SillyCode.tech](https://sillycode.tech/)
   + Overlay
   + Backend
-+ [NoNamedGame]()
++ [NoNamedGame](https://nonamedgame.netlify.app)
