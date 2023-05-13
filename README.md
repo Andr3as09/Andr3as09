@@ -13,10 +13,11 @@
 
 + 📫 How to reach me:
   - Send me a message on [Discord](https://discord.com): [`Kindskopf#6666`](https://discord.com/users/658362396754313227)
-  
-  
+   
   <center>
       <a href='https://discord.gg/'>
         <img src="https://discord.c99.nl/widget/theme-3/658362396754313227.png" style='padding: 5px'>
       </a>
-   </center>
+  </center>
+  
+  - Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/kindsk0pf)
