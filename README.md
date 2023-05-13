@@ -13,6 +13,7 @@ I have been programming since June 2021 and I still enjoy creating and discoveri
 
 + 📄 I'm currently working on:
   + [SillyCode.tech](https://sillycode.tech/)
+  + [Coming soon](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 + 📫 How to reach me:
   - Send me a message on [Discord](https://discord.com): [`Kindskopf#6666`](https://discord.com/users/658362396754313227)
