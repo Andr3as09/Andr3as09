@@ -1,14 +1,3 @@
-
-<picture>
-<source 
-srcset="https://github-readme-stats.vercel.app/api?username=Kindskopf123&show_icons=true&theme=dark"
-media="(prefers-color-scheme: dark)"/>
-<source
-srcset="https://github-readme-stats.vercel.app/api?username=Kindskopf123&show_icons=true"
-media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kindskopf123&show_icons=true" />
-</picture>
-
 <p align="center">
   <a href="https://discord.com/users/658362396754313227" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
