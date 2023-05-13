@@ -12,3 +12,6 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 ## Currently working on
 + [SillyCode.tech](https://sillycode.tech/)
 + [NoNamedGame](https://nonamedgame.netlify.app/)
+
++ How to reach me:
+  - Send me a message on Discord:[Kindskopf#6666](https://discord.com/users/658362396754313227)
