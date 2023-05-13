@@ -22,7 +22,7 @@ I have been programming since June 2021 and I still enjoy creating and discoveri
       </a>
   </center>
   
-  - Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/kindsk0pf)
+  - Send me a Direct Message on [Instagram](https://instagram.com): [`@kindsk0pf`](https://instagram.com/kindsk0pf)
 
 ## GitHub Stats
 
