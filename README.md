@@ -14,4 +14,4 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 + [NoNamedGame](https://nonamedgame.netlify.app/)
 
 + How to reach me:
-  - Send me a message on Discord:[Kindskopf#6666](https://discord.com/users/658362396754313227)
+  - Send me a message on [Discord](https://discord.com): [Kindskopf#6666](https://discord.com/users/658362396754313227)
