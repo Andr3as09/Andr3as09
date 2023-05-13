@@ -1,4 +1,6 @@
-## Hi
+## Hi there,
+I have been programming since June 2021 and I still enjoy creating and discovering new things. My main language is [Java](https://www.java.com/)
+
 <p align="center">
   <a href="https://discord.com/users/658362396754313227" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
