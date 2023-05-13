@@ -8,9 +8,13 @@
   </a>
 </p>
 
-+ I'm currently working on:
++ 📄 I'm currently working on:
   + [SillyCode.tech](https://sillycode.tech/)
-  + [NoNamedGame](https://nonamedgame.netlify.app/)
 
 + 📫 How to reach me:
   - Send me a message on [Discord](https://discord.com): [`Kindskopf#6666`](https://discord.com/users/658362396754313227)
+  <center>
+      <a href='https://discord.gg/VAR8sutF'>
+        <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png" style='padding: 5px'>
+      </a>
+   </center>
