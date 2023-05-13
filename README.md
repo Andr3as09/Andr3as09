@@ -14,7 +14,7 @@
 + 📫 How to reach me:
   - Send me a message on [Discord](https://discord.com): [`Kindskopf#6666`](https://discord.com/users/658362396754313227)
   <center>
-      <a href='https://discord.gg/VAR8sutF'>
+      <a href='https://discord.gg/'>
         <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png" style='padding: 5px'>
       </a>
    </center>
