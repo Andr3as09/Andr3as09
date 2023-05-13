@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Currently working on
+Currently working on:
 + [SillyCode.tech](https://sillycode.tech/)
 + [NoNamedGame](https://nonamedgame.netlify.app/)
 
