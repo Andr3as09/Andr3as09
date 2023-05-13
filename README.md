@@ -16,4 +16,12 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 + 📫How to reach me:
   - Send me a message on [Discord](https://discord.com): [`Kindskopf#6666`](https://discord.com/users/658362396754313227)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6or1bKJiZ06IlK0vFvY75k?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p align="center">
+  <a href="https://discord.com/users/658362396754313227" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
+  </a>
+  <a href="https://www.instagram.com/kindsk0pf/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
+  </a>
+</p>
