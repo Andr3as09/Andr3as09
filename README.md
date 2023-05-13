@@ -15,3 +15,5 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 
 + 📫How to reach me:
   - Send me a message on [Discord](https://discord.com): [`Kindskopf#6666`](https://discord.com/users/658362396754313227)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6or1bKJiZ06IlK0vFvY75k?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
