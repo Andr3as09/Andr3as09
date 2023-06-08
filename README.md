@@ -1,6 +1,5 @@
 ## Hi there,
-I'm a 13 year old programmer from germany, my name is `QW5kcmVhcwo=`.
-I have been programming since June 2021 and I still enjoy creating and discovering new things. My main language is [Java](https://www.java.com/)
+My main language is [Java](https://www.java.com/)
 
 <p align="center">
   <a href="https://discord.com/users/658362396754313227" target="_blank">
