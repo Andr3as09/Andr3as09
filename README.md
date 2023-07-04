@@ -1,5 +1,5 @@
 ## Hi there,
-My main language is [Java](https://www.java.com/)
+I'm a german student. I'm always opem for collabs and my main language is [Java](https://www.java.com/).
 
 <p align="center">
   <a href="https://discord.com/users/658362396754313227" target="_blank">
