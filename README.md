@@ -15,7 +15,7 @@ I'm a german student. I'm always open for collabs and my main language is [Java]
   + [Coming soon](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 📫 How to reach me:
-  - Send me a message on [Discord](https://discord.com): [`Kindskopf#6666`](https://discord.com/users/658362396754313227)
+  - Send me a message on [Discord](https://discord.com): [`Kindskopf`](https://discord.com/users/658362396754313227)
    
   <center>
       <a href='https://discord.gg/'>
